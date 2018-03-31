@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Marcel Peduzzi</Authors>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <AssemblyName>Peduzzi.Sample.NugetSampleDebug</AssemblyName>
+    <RootNamespace>Peduzzi.Sample.NugetSampleDebug</RootNamespace>
   </PropertyGroup>
 
 </Project>
